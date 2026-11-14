@@ -155,6 +155,8 @@ legal:
 documentation:
   readme:
     path: "https://github.com/openeverest/openeverest/blob/main/README.md"
+  architecture:
+    path: "https://github.com/openeverest/docs/blob/main/docs/concepts/architecture.md"
 
 landscape:
   category: "App Definition and Development"
